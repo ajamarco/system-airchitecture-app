@@ -4,15 +4,15 @@ Update this file whenever the current phase, active feature, or implementation s
 
 ## Current Phase
 
-- Not started.
+- Phase 1: Design System & UI Primitives
 
 ## Current Goal
 
-- Define the immediate implementation goal here.
+- Install and configure shadcn/ui, add primitive components, set up globals.css tokens, and create `lib/utils.ts`.
 
 ## Completed
 
-- None yet.
+- Feature 01: Design System — shadcn/ui initialized, Button, Card, Dialog, Input, Tabs, Textarea, ScrollArea added, lucide-react installed, `lib/utils.ts` with `cn()` created, `globals.css` updated with dark-only design tokens.
 
 ## In Progress
 
